@@ -1,1 +1,1 @@
-React-Native starter boilerplate for all the projects in Grit which require a React-Native cross-platform native mobile apps.
+React-Native starter boilerplate for every project which require a React-Native cross-platform native mobile apps.
